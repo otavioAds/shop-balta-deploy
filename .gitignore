@@ -77,3 +77,4 @@ obj/Debug/netcoreapp3.1/project.razor.json
 obj/Debug/netcoreapp3.1/Shop.AssemblyInfo.cs
 obj/Debug/netcoreapp3.1/Shop.MvcApplicationPartsAssemblyInfo.cs
 obj/Debug/netcoreapp3.1/staticwebassets/Shop.StaticWebAssets.xml
+*.vscode
